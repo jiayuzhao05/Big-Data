@@ -1,4 +1,4 @@
-# page 10: try it yourself
+# page 10
 # answer to q1, q2 and q3
 housing_data %>%
   filter(city == "Brazoria County") %>%
